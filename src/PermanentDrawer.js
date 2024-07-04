@@ -98,7 +98,7 @@ export default function PermanentDrawerLeft() {
                   },
                 }}
               >
-                <ListItemIcon sx={{ color: textColor, minWidth: 40 }}>
+                <ListItemIcon sx={{ color: 'txtColor', minWidth: 40 }}>
                   {item.icon}
                 </ListItemIcon>
                 <ListItemText
@@ -141,7 +141,7 @@ export default function PermanentDrawerLeft() {
                   },
                 }}
               >
-                <ListItemIcon sx={{ color: textColor, minWidth: 40 }}>
+                <ListItemIcon sx={{ color: 'txtColor', minWidth: 40 }}>
                   {item.icon}
                 </ListItemIcon>
                 <ListItemText
